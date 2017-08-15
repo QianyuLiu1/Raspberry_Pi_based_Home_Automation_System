@@ -1,0 +1,1 @@
+gcc dht11_c.c -fPIC -shared -o libsensor.so -l wiringPi

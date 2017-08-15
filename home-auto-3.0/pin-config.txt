@@ -1,0 +1,5 @@
+led1,18
+led2,11
+led3,26
+sensor,19
+video,20
